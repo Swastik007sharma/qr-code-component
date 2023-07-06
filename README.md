@@ -23,23 +23,23 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/Swastik007sharma/qr-code-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://swastik007sharma.github.io/qr-code-component/)
 
 ## My process
 
-- Initialy I just use trial and error method and completed it using simple css.
-- After completing it I decided to learn about scss.
+- Initially, I just use the trial and error method and completed it using simple CSS.
+- After completing it I decided to learn about SCSS.
 - After learning basic Scss I used it in this challenge.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- scss
+- SCSS
 
 ### What I learned
 
-- scss: learn about scss and how to use it
+- learn about SCSS and how to use it
 
 ### Useful resources
 
@@ -52,4 +52,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-I would like to thank to freeCodeCamp YouTube channel and TheCoderCoder. [Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners](https://youtu.be/krfUjg0S2uI) from this video i get to know about Frontend Mentor.
+I would like to thank the freeCodeCamp YouTube channel and TheCoderCoder. [Build a Simple Website with HTML, CSS, JavaScript – Course for Beginners](https://youtu.be/krfUjg0S2uI) From this video I get to know about Frontend Mentor.
